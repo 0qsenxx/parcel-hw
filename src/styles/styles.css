@@ -1,0 +1,17 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+input {
+    max-width: 150px;
+    border-radius: 15px;
+}
+
+textarea {
+    height: 50px;
+    width: 200px;
+}
